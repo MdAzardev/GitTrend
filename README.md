@@ -4,7 +4,7 @@ An Android App that lists the most trending repositories in Github.
 
 #### App Features
 * Users can view the most trending repositories in Github.
-* Users can filter based on name.
+* Users can Search and filter based on name.
  
  #### The app includes the following main components:
 
