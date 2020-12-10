@@ -1,6 +1,6 @@
 # GitTrend
 An Android App that lists the most trending repositories in Github.
-
+<img src="https://github.com/mdazharips/GitTrend/blob/main/Screenshots/loading.jpg" width="200" style="max-width:100%;">   <img src="https://github.com/mdazharips/GitTrend/blob/main/Screenshots/nonetwork.jpg" width="200" style="max-width:100%;"> <img src="https://github.com/mdazharips/GitTrend/blob/main/Screenshots/loaded%20data.jpg" width="200" style="max-width:100%;"> <img src="https://github.com/mdazharips/GitTrend/blob/main/Screenshots/Search.jpg" width="200" style="max-width:100%;"> <img src="https://github.com/mdazharips/GitTrend/blob/main/Screenshots/pull%20to%20reload.gif" width="200" style="max-width:100%;"></br></br>
 
 #### App Features
 * Users can view the most trending repositories in Github.
