@@ -14,7 +14,7 @@ An Android App that lists the most trending repositories in Github.
 
 #### App Packages
 * <b>data</b> - contains 
-    * <b>api</b> - contains the api classes to make api calls using android-volley. 
+    * <b>api</b> -  make api calls using android-volley. 
     * <b>db</b> - contains the db classes to store data.
 * <b>ui</b> - contains classes needed to display Activity.
 
